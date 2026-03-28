@@ -23,32 +23,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "EB Garamond",
+        body: "Lora ",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f4f0e8",       // Warm Parchment/Antique Paper
+          lightgray: "#e0dcd0",   // Muted stone for borders
+          gray: "#8c8578",        // Aged ink look for metadata
+          darkgray: "#2d2a24",    // Deep sepia-black for body text (better than pure black)
+          dark: "#1b1915",        // Bold headers
+          secondary: "#5f6b5e",   // Sage Green for links (Pragmatic/Organic)
+          tertiary: "#8a9a88",    // Hover states
+          highlight: "rgba(143, 159, 169, 0.1)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#161617",       // Deep Slate (not pure black)
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#98c1d9",
+          tertiary: "#3d5a80",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
         },
       },
     },
