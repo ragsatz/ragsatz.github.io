@@ -38,10 +38,11 @@ Information here follows a lifecycle. Check the `status` in the top-right of any
 > — *An Anonymous Proverb*
 
 ---
-
 ## 📂 Recent Deep Dives
 * [[Why Decimal Sorting Wins]] (On organization)
 
+---
+- 📝 [[TODOs]]
 ---
 
 ## 📡 Get in Touch
