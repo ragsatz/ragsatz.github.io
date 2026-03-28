@@ -1,3 +1,24 @@
 @use "./base.scss";
-@use "./themes";
 
+
+@use "./variables.scss" as *;
+
+// The "Seeker's Archive" Aesthetic
+:root {
+  --light: #f2e9e1;           // Warm ancient paper
+  --lightgray: #e6e9ef;       // Stone-colored borders
+  --gray: #9ca0b0;            // Faded manuscript text
+  --darkgray: #4c4f69;        // Deep ink text
+  --dark: #7287fd;            // Magical blue highlights
+  --secondary: #fe640b;       // Burnt orange "Seeker" accents
+  --tertiary: #df8e1d;        // Golden relic highlights
+  --highlight: rgba(223, 142, 29, 0.15);
+}
+
+// Optional: Give your "Properties" a weathered look
+.metadata-container {
+  background-color: var(--lightgray);
+  border-radius: 4px;
+  padding: 1rem;
+  border: 1px solid var(--gray);
+}
