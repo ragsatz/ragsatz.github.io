@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Ragsatz's Seeker Archive",
-    logo: "quartz/static/logo.png",
+    logo: "static/logo.png",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

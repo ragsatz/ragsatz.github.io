@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/ragsatz/",
       "X": "https://x.com/ragsatz",
       "Instagram": "https://instagram.com/_ragsatz",
-      "Youtube": "https://youtube.com/ragsztz",
+      "Youtube": "https://youtube.com/ragsatz",
     },
   }),
 }
