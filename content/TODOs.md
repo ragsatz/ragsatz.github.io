@@ -6,7 +6,7 @@ description: ""
 tags:
   - topic/todos
 created: 2026-03-29 00:34:26
-updated: 2026-03-29 00:34:26
+updated: 2026-03-29 00:58:01
 ---
 ## The Spark
 > I need a space to organize ideas about what to do, think and write about
@@ -25,6 +25,10 @@ updated: 2026-03-29 00:34:26
 - [ ] [[Systems]] - Systems about life
 - [ ] [[Guiding Principles]] - Rules of Thumb, mental models useful in a variety of domains, generally useful, restricted to 6/7 at a time
 - [ ] [[Papers]] - Research 
+- [[Habits]] - What sucks, how to change them, making habit change stick
+- [[Sleep]] - How to get a good baseline sleep, why does it matter?
+- [[Pornography]] - How it affects the brain, self esteem and relationships, etc
+- [[Procrastination]] - I'll write this desc later (joke intended)
 
 ---
 ## The Log
