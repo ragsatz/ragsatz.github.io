@@ -1,0 +1,31 @@
+---
+title: TODOs
+type: seedling
+status: seedling
+description: ""
+tags:
+  - topic/todos
+created: 2026-03-29 00:34:26
+updated: 2026-03-29 00:34:26
+---
+## The Spark
+> I need a space to organize ideas about what to do, think and write about
+
+### TODOs
+
+- [ ] [[On Leveling Up]] - Inspired by Solo Leveling, Isn't it a powerful mental models to view life as different spheres where you can level up by doing some actions repeatedly?
+- [ ] [[PolymathOS]] - My custom software for above, in development
+- [ ] [[Journaling]] - How to fit my Notion based journaling with this digital 'gardening'
+- [ ] [[Personal Finance]] - Yep, managing and growing my money, stocks and other investments, [[Trading]] and [[AlgoTrading]]
+- [ ] [[Values]] - What I value, in what order and why?
+- [ ] [[Roadmaps]] - Plans to level up in some of the spheres/domains
+- [ ] [[Readings]] - What I have read, what to read and more
+- [ ] [[Watchlist]] - Videos / Movies / Shows I recommend
+- [ ] [[Resources]] - Stuff I fund useful
+- [ ] [[Systems]] - Systems about life
+- [ ] [[Guiding Principles]] - Rules of Thumb, mental models useful in a variety of domains, generally useful, restricted to 6/7 at a time
+- [ ] [[Papers]] - Research 
+
+---
+## The Log
+- 2026-03-29 00:34: Initial entry.

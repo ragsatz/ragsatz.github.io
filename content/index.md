@@ -8,7 +8,7 @@ tags:
   - systems
   - hub
 created: 2026-03-28 16:32:00
-updated: 2026-03-28 17:22:44
+updated: 2026-03-29 00:49:20
 ---
 # The Laboratory of a Pragmatic Generalist
 
@@ -42,7 +42,7 @@ Information here follows a lifecycle. Check the `status` in the top-right of any
 * [[Why Decimal Sorting Wins]] (On organization)
 
 ---
-- 📝 [[TODOs]]
+### 📝 [[TODOs]]
 ---
 
 ## 📡 Get in Touch
