@@ -1,12 +1,15 @@
 ---
 title: Why Decimal Sorting Wins
+type: seedling
 status: seedling
+description: ""
 tags:
   - system-design
   - meta
   - organization
+  - topic/___
 created: 2026-03-28 17:08:26
-updated: 2026-03-28 17:13:22
+updated: 2026-03-28 17:26:54
 ---
 
 # Why Decimal Sorting Wins

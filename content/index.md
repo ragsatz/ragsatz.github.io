@@ -1,11 +1,14 @@
 ---
-title: "The Archive of Ragsatz"
+title: The Archive of Ragsatz
 type: hub
 status: evergreen
+description: A digital garden for deconstructing complex systems—from distributed code to biological blueprints.
+tags:
+  - meta
+  - systems
+  - hub
 created: 2026-03-28 16:32:00
-updated: 2026-03-28 17:13:15
-tags: [meta, systems, hub]
-description: "A digital garden for deconstructing complex systems—from distributed code to biological blueprints."
+updated: 2026-03-28 17:22:44
 ---
 # The Laboratory of a Pragmatic Generalist
 
