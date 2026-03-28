@@ -23,6 +23,7 @@ I am currently "Learning in Public." This means you are seeing my thoughts in th
 * **[[System Design]]**: Exploring my interests in highly scalable and resilient "systems" (CS)
 * **[[Personal Health]]**: Understanding roadblocks in building self-care regimes that create a lasting impact on longevity and quality of life
 * **[[Philosophy]]**: Standing on the shoulders of the giants that came before me
+- [[Writing]]: Organising my thoughts in a coherent way for myself and others to see
 
 ---
 
