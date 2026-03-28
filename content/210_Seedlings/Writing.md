@@ -6,10 +6,8 @@ description: Why should one write? How to improve writing?
 tags:
   - topic/writing
 created: 2026-03-28 23:00:06
-updated: 2026-03-28 23:27:45
+updated: 2026-03-29 00:30:50
 ---
-# Writing
-
 ## The Spark
 > Why should I write? What is the incentive here? Why would someone read what I find interesting enough to write about? Do I even write good?
 
