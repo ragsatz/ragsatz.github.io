@@ -16,34 +16,40 @@ updated: 2026-03-29 00:49:20
 > To deconstruct complex systems—from the silicon architecture of distributed databases to the biological code of the human genome—and rebuild them into mental models that actually stick.
 
 ---
+## 🏗️ Current Focus Domain
+I am currently "Learning in Public." This means you are seeing thoughts in their raw, unpolished state, categorized by functional domains:
 
-## 🏗️ Current Research Streams
-I am currently "Learning in Public." This means you are seeing my thoughts in their raw, unpolished state.
-
-* **[[System Design]]**: Exploring my interests in highly scalable and resilient "systems" (CS)
-* **[[Personal Health]]**: Understanding roadblocks in building self-care regimes that create a lasting impact on longevity and quality of life
-* **[[Philosophy]]**: Standing on the shoulders of the giants that came before me
-- [[Writing]]: Organising my thoughts in a coherent way for myself and others to see
+* **[[210_Operating_System|Operating Systems]]:** Refining the "Rules of the House" and mental frameworks.
+* **[[220_Health_and_Performance|Health & Performance]]:** Optimizing the biological machine for longevity and focus.
+* **[[230_Wealth_and_Profession|Wealth & Profession]]:** Building equity, career leverage, and algorithmic trading systems.
+* **[[240_Engineering_and_Tech|Engineering & Tech]]:** Scaling software, exploring AI, and building [[PolymathOS]].
+* **[[250_Intellectual_Pursuits|Intellectual Pursuits]]:** Deconstructing philosophy, logic, and the nature of systems.
+* **[[260_Hobbies|Hobbies]]:** Creative cross-pollination through digital art, music, and photography.
+* **[[280_The_Library|The Library]]:** Deconstructing the papers and books of giants who came before.
 
 ---
 
 ## 🌿 The Garden Protocol
-Information here follows a lifecycle. Check the `status` in the top-right of any note:
+This archive is a non-linear network. Information follows a subject-based hierarchy rather than a chronological one.
 
-* **Seedlings (210)**: 70% raw. High entropy. Likely contains mistakes.
-* **Incubating (220)**: Connecting dots. Structured but still evolving.
-* **Evergreen (290)**: Distilled truth. These are my finished essays.
+* **The Map:** Use the **[[Map Of Content]]** as your primary compass.
+* **The Status:** Check the `status` property in any note. 
+	* `Seedling`: High entropy. Raw observations.
+	* `Incubating`: Connecting dots. Structured but evolving.
+	* `Evergreen`: Distilled truth. Finished mental models.
 
-> [!quote] "The best way to learn is to be wrong in public until someone smarter corrects you." 
-> — *An Anonymous Proverb*
+> "The best way to learn is to be wrong in public until someone smarter corrects you."
+> — *Anonymous*
 
 ---
+
 ## 📂 Recent Deep Dives
 * [[Why Decimal Sorting Wins]] (On organization)
+* [[On Leveling Up]] (On growth frameworks)
 
----
-### 📝 [[TODOs]]
+## 📝 [[TODOS|The Active Queue]]
+
 ---
 
 ## 📡 Get in Touch
-I exist here anonymously to ensure the ideas are judged, not the person. If you have a correction or a connection, find me on [GitHub](https://github.com/ragsatz).
+I exist here anonymously to ensure the ideas are judged, not the person. If you have a correction or a connection, find me on GitHub.

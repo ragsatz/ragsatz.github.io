@@ -7,11 +7,10 @@ tags:
   - system-design
   - meta
   - organization
-  - topic/___
 created: 2026-03-28 17:08:26
 updated: 2026-03-28 17:26:54
 ---
-
+Up: [[210_Operating_System]]
 # Why Decimal Sorting Wins
 
 Most digital note-takers fall into the **"Folder Shuffle Trap."** They organize by topic (e.g., "Genetics," "Coding"), but as their interests grow, their sidebar becomes a chaotic, shifting mess of a-z sorting. 

@@ -13,7 +13,7 @@ updated: 2026-03-29 01:20:38
 
 ### TODOs
 
-- [ ] [[On Leveling Up]] - Inspired by Solo Leveling, Isn't it a powerful mental models to view life as different spheres where you can level up by doing some actions repeatedly?
+- [x] [[On Leveling Up]] - Inspired by Solo Leveling, Isn't it a powerful mental model to view life as different spheres where you can level up by doing some actions repeatedly?
 - [ ] [[PolymathOS]] - My custom software for above, in development
 - [ ] [[Journaling]] - How to fit my Notion based journaling with this digital 'gardening'
 - [ ] [[Personal Finance]] - Yep, managing and growing my money, stocks and other investments, [[Trading]] and [[AlgoTrading]]
