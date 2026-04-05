@@ -31,6 +31,7 @@ Frameworks for deconstructing complex systems.
 * [[On Leveling Up]]: Viewing life as a series of skill-trees and spheres of influence.
 * [[Guiding Principles]]: The 6-7 active "Rules of Thumb" currently in play.
 * [[Values]]: The hierarchical list of what matters and the "Why" behind them.
+- [[Recovering from Failure]]: > How can I recover from failure without feeling sad and guilty or hypercritical of oneself?
 
 ## 🗺️ Strategy & Roadmaps
 Macro-plans for different life domains.
