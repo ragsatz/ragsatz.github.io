@@ -40,6 +40,11 @@ Specific routines for high-stakes execution.
 * **[[Deep Work]]**: Managing the environment for maximum concentration.
 * **[[Breathwork & Recovery]]**: Tools for down-regulating the nervous system.
 
+## The Problems
+A list of problems I face and how to tackle them.
+- [[Why do I worry all the time?]]
+
+
 ---
 
 ## The Log

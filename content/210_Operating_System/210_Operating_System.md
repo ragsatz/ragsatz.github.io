@@ -28,10 +28,11 @@ The logic behind this 10-year system.
 
 ## 🧠 Mental Models & Logic
 Frameworks for deconstructing complex systems.
+- [[Mental Models]]: Mental Models MOC
 * [[On Leveling Up]]: Viewing life as a series of skill-trees and spheres of influence.
 * [[Guiding Principles]]: The 6-7 active "Rules of Thumb" currently in play.
 * [[Values]]: The hierarchical list of what matters and the "Why" behind them.
-- [[Recovering from Failure]]: > How can I recover from failure without feeling sad and guilty or hypercritical of oneself?
+- [[Recovering from Failure]]: How can I recover from failure without feeling sad and guilty or hypercritical of oneself?
 
 ## 🗺️ Strategy & Roadmaps
 Macro-plans for different life domains.
@@ -40,10 +41,10 @@ Macro-plans for different life domains.
 * [[Career Architecture]]: Long-term professional positioning.
 
 ## ⚙️ Workflow Systems
-* [[Systems]]: Standard Operating Procedures (SOPs) for daily life.
+* [[Mental Models]]: Standard Operating Procedures (SOPs) for daily life.
 * [[Journaling]]: The "Borg" method of deconstructing the day into the archive.
 
 ---
 
 ## The Log
-* **2026-03-30:** Initialized Operating System MOC. Moved "Decimal Sorting" and "Leveling Up" into this domain.**
+* **2026-03-30:** Initialized Operating System MOC. Moved "Decimal Sorting" and "Leveling Up" into this domain.

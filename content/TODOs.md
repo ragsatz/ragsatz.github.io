@@ -22,7 +22,7 @@ updated: 2026-03-29 01:20:38
 - [ ] [[Readings]] - What I have read, what to read and more
 - [ ] [[Watchlist]] - Videos / Movies / Shows I recommend
 - [ ] [[Resources]] - Stuff I fund useful
-- [ ] [[Systems]] - Systems about life
+- [ ] [[Mental Models]] - Systems about life
 - [ ] [[Guiding Principles]] - Rules of Thumb, mental models useful in a variety of domains, generally useful, restricted to 6/7 at a time
 - [ ] [[Papers]] - Research 
 - [ ] [[Habits]] - What sucks, how to change them, making habit change stick
