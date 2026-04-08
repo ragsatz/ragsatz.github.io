@@ -18,6 +18,9 @@ Up: [[210_Operating_System]]
 - Can we use concepts from [[Game Theory]] to level up in our life?
 - CRUCIAL LIMITATION: You cannot take different branches in life like you can in a VN or a game. You cannot always retry levels so you have to be extra careful.
 
+## To play or not to play
+- I recently heard [[Dr K's podcast with Andrew Huberman]]
+
 
 ---
 ## The Log
