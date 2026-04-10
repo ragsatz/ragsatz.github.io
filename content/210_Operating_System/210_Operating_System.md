@@ -28,7 +28,7 @@ The logic behind this 10-year system.
 
 ## 🧠 Mental Models & Logic
 Frameworks for deconstructing complex systems.
-- [[Mental Models]]: Mental Models MOC
+- [[211_Mental_Models]]: Mental Models MOC
 * [[On Leveling Up]]: Viewing life as a series of skill-trees and spheres of influence.
 * [[Guiding Principles]]: The 6-7 active "Rules of Thumb" currently in play.
 * [[Values]]: The hierarchical list of what matters and the "Why" behind them.
@@ -41,7 +41,7 @@ Macro-plans for different life domains.
 * [[Career Architecture]]: Long-term professional positioning.
 
 ## ⚙️ Workflow Systems
-* [[Mental Models]]: Standard Operating Procedures (SOPs) for daily life.
+* [[211_Mental_Models]]: Standard Operating Procedures (SOPs) for daily life.
 * [[Journaling]]: The "Borg" method of deconstructing the day into the archive.
 
 ---

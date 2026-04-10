@@ -13,6 +13,7 @@ Parent: [[210_Operating_System]]
 Here is a list of mental models, I find myself thinking about:
 
 - [[Recovering from Failure]]
+- [[To Participate or Withdraw]]
 
 ---
 ## The Log

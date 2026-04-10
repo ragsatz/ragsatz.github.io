@@ -31,7 +31,7 @@ The study of wisdom and the "Good Life."
 
 ## 🧩 Logic & Mental Models
 Tools for sharper thinking and bias reduction.
-* **[[Mental Models]]**: A collection of reusable frameworks for problem-solving.
+* **[[211_Mental_Models]]**: A collection of reusable frameworks for problem-solving.
 * **[[First Principles]]**: Deconstructing ideas to their fundamental truths.
 * **[[Systems Thinking]]**: Understanding how parts interact within a whole.
 

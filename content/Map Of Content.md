@@ -43,7 +43,7 @@ Up: [[index|Home]]
 
 ## 🧠 [[250_Intellectual_Pursuits]]
 **The Growth:** Deep thinking and specialized interests.
-* **Thinking:** [[Stoicism]], [[Mental Models]]
+* **Thinking:** [[Stoicism]], [[211_Mental_Models]]
 * **Curiosity:** [[Ethics]], [[Logic]]
 
 ## 🎨 [[260_Hobbies]]
